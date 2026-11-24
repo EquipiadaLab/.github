@@ -1,6 +1,6 @@
 #  EquipiadaLab
 
-**Grupo de Desenvolvedores de diferentes áreas, participamos ativamente de competições como Hackathons e Ideathons, desenvolvemos projetos para solucionar problemas reais.**
+**Grupo de Desenvolvedores de diferentes áreas. Participamos ativamente de competições como Hackathons e Ideathons, desenvolvendo projetos para solucionar problemas reais.**
 
 ## 👥 Equipe
 
